@@ -21,7 +21,7 @@ main {
     border-radius: 5px;
     background-color: hsl(244, 38%, 16%);
     opacity: 25%;
-    background-image: url(/Frontend-Mentor/tarjeta-de-vista-previa-de-estad-sticas/stats-preview-card-component-main/images/image-header-mobile.jpg);
+    background-image: url(/Frontend-Mentor/tarjeta-de-vista-previa-de-estad-sticas/images/image-header-mobile.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 }
