@@ -1,0 +1,36 @@
+main {
+    height: 100vh;
+    padding: 125px;
+}
+.container {
+    width: 100%;
+    height: 475px;
+    display: inline-flex;
+    align-items: center;
+}
+.container__image {
+    width: 50%;
+    height: 475px;
+    background-image: url(/Frontend-Mentor/tarjeta-de-vista-previa-de-estad-sticas/images/image-header-desktop.jpg);
+}
+.container__box {
+    width: 50%;
+    height: 450px;
+    padding:  70px 50px;
+}
+.container__box h2 {
+    width: 90%;
+    font-size: 39px;
+    text-align: left;
+}
+.container__box p {
+    width: 90%;
+    font-size: 15px;
+    text-align: left;
+}
+.container__box--datos {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 20px 40px 20px 0;
+}
