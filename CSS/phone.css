@@ -21,13 +21,12 @@ main {
     border-radius: 5px;
     background-color: hsl(244, 38%, 16%);
     opacity: 25%;
-    background-image: url(/Frontend-Mentor/tarjeta-de-vista-previa-de-estad-sticas/images/image-header-mobile.jpg);
+    background-image: url("https://i.ibb.co/JqF32Np/image-header-mobile.jpg");
     background-repeat: no-repeat;
     background-size: contain;
 }
 .container__box {
     padding: 10px 20px;
-    
 }
 .container__box h2 {
     color: white;
