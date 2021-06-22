@@ -11,7 +11,7 @@ main {
 .container__image {
     width: 50%;
     height: 475px;
-    background-image: url("https://i.ibb.co/3fb817b/image-header-desktop.jpg" );
+    background-image: url(https://i.ibb.co/mSHtBJg/image-header-desktop.jpg);
 }
 .container__box {
     width: 50%;
